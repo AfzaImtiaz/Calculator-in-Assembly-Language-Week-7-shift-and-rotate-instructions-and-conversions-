@@ -134,12 +134,9 @@ When subtraction sets `CF=1` (borrow occurred → result is negative), the raw b
 
 ---
 
-## 👤 Author
-
-**Name:** *(Fill in your name)*  
-**Roll #:** *(Fill in your roll number)*  
+  
 **Course:** CS-530 — Computer Organization & Assembly Language  
-**Instructor:** H.M. Faisal  
+**Instructor:** sir Azhar Mehmood
 **University:** UIIT, PMAS Arid Agriculture University Rawalpindi
 
 ---
